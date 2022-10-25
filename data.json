@@ -16,7 +16,8 @@
         "totalProjects": 10,
         "totalDownloadableResource": 12,
         "totalLiveClass": 20,
-        "totalPracticeTest": 10
+        "totalPracticeTest": 10,
+        "category": "Frontend Development"
     },
     {
         "id": 2,
@@ -35,11 +36,12 @@
         "totalProjects": 6,
         "totalDownloadableResource": 6,
         "totalLiveClass": 10,
-        "totalPracticeTest": 5
+        "totalPracticeTest": 5,
+        "category": "Frontend Development"
     },
     {
         "id": 3,
-        "name": "The Complete Digital Marketing Course - 12 Courses in 1",
+        "name": "The Complete Digital Marketing Course",
         "instructor": "Rob Percival",
         "price": 89.99,
         "image": "https://marufalaslam.github.io/test/3.jpg",
@@ -54,11 +56,12 @@
         "totalProjects": 1,
         "totalDownloadableResource": 1,
         "totalLiveClass": 2,
-        "totalPracticeTest": 1
+        "totalPracticeTest": 1,
+        "category": "Digital Marketing"
     },
     {
         "id": 4,
-        "name": "The Complete Graphic Design Course - Beginner to Advanced",
+        "name": "The Complete Graphic Design Course",
         "instructor": "David Jones",
         "price": 129.99,
         "image": "https://marufalaslam.github.io/test/4.jpg",
@@ -73,7 +76,8 @@
         "totalProjects": 15,
         "totalDownloadableResource": 20,
         "totalLiveClass": 40,
-        "totalPracticeTest": 20
+        "totalPracticeTest": 20,
+        "category": "Graphic Design"
     },
     {
         "id": 5,
@@ -92,7 +96,8 @@
         "totalProjects": 15,
         "totalDownloadableResource": 15,
         "totalLiveClass": 40,
-        "totalPracticeTest": 15
+        "totalPracticeTest": 15,
+        "category": "Frontend Development"
     },
     {
         "id": 6,
@@ -111,11 +116,12 @@
         "totalProjects": 20,
         "totalDownloadableResource": 20,
         "totalLiveClass": 40,
-        "totalPracticeTest": 20
+        "totalPracticeTest": 20,
+        "category": "Web Development"
     },
     {
         "id": 7,
-        "name": "Python for Beginners: Learn Python Programming",
+        "name": "Python for Beginners",
         "instructor": "Mishsael Ndagire",
         "price": 99.99,
         "image": "https://marufalaslam.github.io/test/7.jpg",
@@ -130,7 +136,8 @@
         "totalProjects": 10,
         "totalDownloadableResource": 6,
         "totalLiveClass": 15,
-        "totalPracticeTest": 5
+        "totalPracticeTest": 5,
+        "category": "Software Development"
     },
     {
         "id": 8,
@@ -149,11 +156,12 @@
         "totalProjects": 5,
         "totalDownloadableResource": 1,
         "totalLiveClass": 10,
-        "totalPracticeTest": 10
+        "totalPracticeTest": 10,
+        "category": "Web Development"
     },
     {
         "id": 9,
-        "name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+        "name": "The Complete JavaScript: From Zero to Expert!",
         "instructor": "Jake Wright",
         "price": 150.99,
         "image": "https://marufalaslam.github.io/test/9.jpg",
@@ -168,7 +176,8 @@
         "totalProjects": 20,
         "totalDownloadableResource": 20,
         "totalLiveClass": 30,
-        "totalPracticeTest": 50
+        "totalPracticeTest": 50,
+        "category": "Software Development"
     },
     {
         "id": 10,
@@ -187,7 +196,8 @@
         "totalProjects": 5,
         "totalDownloadableResource": 5,
         "totalLiveClass": 10,
-        "totalPracticeTest": 15
+        "totalPracticeTest": 15,
+        "category": "Cyber Security"
     },
     {
         "id": 11,
@@ -206,7 +216,8 @@
         "totalProjects": 15,
         "totalDownloadableResource": 30,
         "totalLiveClass": 30,
-        "totalPracticeTest": 30
+        "totalPracticeTest": 30,
+        "category": "Software Development"
     },
     {
         "id": 12,
@@ -225,6 +236,7 @@
         "totalProjects": 10,
         "totalDownloadableResource": 17,
         "totalLiveClass": 15,
-        "totalPracticeTest": 15
+        "totalPracticeTest": 15,
+        "category": "Web Development"
     }
 ]
