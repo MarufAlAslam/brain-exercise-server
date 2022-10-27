@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MarufAlAslam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MarufAlAslam/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MarufAlAslam#readme"
 }
